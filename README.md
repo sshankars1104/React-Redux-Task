@@ -4,7 +4,7 @@ This is a simple shopping cart application built with React and Redux Toolkit. I
 
 ## Demo
 
-You can view a live demo of the project [here](https://react-redux-task-demo.netlify.app/).
+You can view a live demo of the project [here](https://react-redux-toolkit-tasks.netlify.app).
 
 ## Features
 
