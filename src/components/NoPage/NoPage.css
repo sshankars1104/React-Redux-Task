@@ -1,0 +1,41 @@
+
+
+body,
+html {
+    height: 100%;
+    margin: 0;
+    font-family: Arial, sans-serif;
+}
+
+.no-page-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 70vh;
+    background-color: #f8f8f8;
+    color: #333;
+    text-align: center;
+    flex-direction: column;
+}
+
+.no-page-container h1 {
+    font-size: 3rem;
+    margin: 0;
+    color: #ff6f61;
+}
+
+.no-page-container p {
+    font-size: 1.5rem;
+    margin: 10px 0;
+}
+
+.no-page-container a {
+    text-decoration: none;
+    color: #007bff;
+    font-weight: bold;
+}
+
+.no-page-container a:hover {
+    text-decoration: underline;
+    
+}
